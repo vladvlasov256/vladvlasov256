@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [FlowMolio](https://github.com/vladvlasov256/flowmolio)
+- 🔭 I’m currently working on [YourDutchBot](https://your-dutch-bot.vercel.app/dutch/)
 - 🔨 I contributed to [LicensePlist](https://github.com/mono0926/LicensePlist) and [HTMLKit](https://github.com/iabudiab/HTMLKit)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/crivlaldo/), [Telegram](https://t.me/crivlaldo), [Twitter](twitter.com/crivlaldo)
 <!-- - - 🌱 I’m currently learning Kotlin -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-If you're building multi-tenant CMSs and need to quickly integrate Figma mockups with real data, try [FlowMolio](https://www.flowmol.io/). It's a visual node editor that connects JSON data to SVG elements with live updates!
+If you're learning Dutch for the inburgeringsexamen, try [YourDutchBot](https://your-dutch-bot.vercel.app/dutch/) — a Telegram bot that turns daily news into bite-sized lessons with reading, listening, and speaking practice!
 
 <br />
 
