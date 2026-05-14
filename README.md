@@ -10,5 +10,6 @@ If you're learning Dutch for the inburgeringsexamen, try [YourDutchBot](https://
 
 <br />
 
-![Vlad's github stats](https://github-readme-stats.vercel.app/api?username=vladvlasov256&show_icons=true&hide_border=true&include_all_commits=true)&nbsp;&nbsp;
 ![Vlad's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladvlasov256&layout=compact&langs_count=8&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladvlasov256&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladvlasov256&theme=default)
